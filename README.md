@@ -1,4 +1,18 @@
-# Kobra 2 Neo — Klipper Config (`btt2neo`)
+<div align="center">
+
+# <img src="assets/icon.png" alt="" height="40" valign="middle" /> Kobra 2 Neo on Klipper
+
+**Config backup for a heavily modified Anycubic Kobra 2 Neo: BTT Manta M8P, linear rails, sensorless homing, measured input shaping.**
+
+<a href="https://www.klipper3d.org/"><img src="https://img.shields.io/badge/Klipper-1F2937?logo=klipper&logoColor=white" alt="Klipper" /></a>
+<a href="https://moonraker.readthedocs.io/"><img src="https://img.shields.io/badge/Moonraker-2563EB" alt="Moonraker" /></a>
+<a href="https://docs.mainsail.xyz/"><img src="https://img.shields.io/badge/Mainsail-0EA5E9" alt="Mainsail" /></a>
+<a href="https://biqu.equipment/products/bigtreetech-manta-m8p-v2-0"><img src="https://img.shields.io/badge/BTT_Manta_M8P-7C3AED" alt="BTT Manta M8P" /></a>
+<a href="https://www.anycubic.com/"><img src="https://img.shields.io/badge/Anycubic_Kobra_2_Neo-111827" alt="Anycubic Kobra 2 Neo" /></a>
+
+</div>
+
+---
 
 Anycubic **Kobra 2 Neo**, heavily modified, running Klipper on a **BigTreeTech Manta M8P V2.0** (STM32H723, Debian 12 host). This repo is an automated backup of `~/printer_data/config`.
 
